@@ -1,0 +1,26 @@
+{
+  "name": "Syl-Js",
+  "version": "1.0.0",
+  "description": "Node wrapper for the Sylviorus antispam API for telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \" no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoeZia/Syl-Js"
+  },
+    "keywords": [
+    "Sylviorus",
+    "Antispam"
+  ],
+  "author": "MoeZilla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MoeZilla/Syl-Js/issues"
+  },
+  "homepage": "https://github.com/MoeZilla/Syl-Js#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
