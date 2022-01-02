@@ -12,7 +12,7 @@ class Sylviorus {
 
     }
 
-    let json = await fetch(`https://sylviorus.up.railway.app/user/${encodeURIComponent(user)}`)
+    let json = await fetch(`https://sylviorus-api.up.railway.app/user/${encodeURIComponent(user)}`)
 
     let syl = await json.json()
 
