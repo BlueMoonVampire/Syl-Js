@@ -1,7 +1,7 @@
 {
-  "name": "Syl-Js",
+  "name": "Vanitas-Js",
   "version": "1.0.0",
-  "description": "Node wrapper for the Sylviorus antispam API for telegram",
+  "description": "Node wrapper for the Vanitas antispam API for telegram",
   "main": "index.js",
   "scripts": {
     "test": "echo \" no test specified\""
