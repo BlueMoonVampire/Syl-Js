@@ -1,7 +1,7 @@
-const Sylviorus  =  require("../index.js");
+const Vanitas  =  require("../index.js");
 
-const Syl  =  new  Sylviorus
+const x  =  new  Vanitas
 
-//    Sylviorus wrapper js Copyright (C) 2021 MoeZilla
+//    Vanitas wrapper js Copyright (C) 2021 MoeZilla
 
-Syl.getInfo("1000906741").then(console.log)
+x.getInfo("1000906741").then(console.log)
