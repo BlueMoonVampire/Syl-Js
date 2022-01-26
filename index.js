@@ -1,4 +1,4 @@
 module.exports = {
-    Sylviorus: require("./src/syl"),
+    Vanitas: require("./src/vanitas"),
     version: require('./package.json').version
 }
